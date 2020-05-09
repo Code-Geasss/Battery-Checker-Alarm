@@ -22,4 +22,6 @@ an alarm will be turned on for 7 seconds. (you can change the time limit of alar
  
  
  ![](images/error.PNG)
+ 
+ ![](images/final_output.PNG)
                                         
