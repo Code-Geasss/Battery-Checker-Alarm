@@ -18,7 +18,7 @@ an alarm will be turned on for 7 seconds. (you can change the time limit of alar
  ![](images/Initial.PNG)
  
  
- ![](images/current_battery.PNG)
+ ![](images/battery.PNG)
  
  
  ![](images/error.PNG)
