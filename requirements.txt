@@ -1,0 +1,15 @@
+APScheduler==2.1.2
+astroid==2.3.3
+autopep8==1.5
+colorama==0.4.3
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+psutil==5.7.0
+pycodestyle==2.5.0
+pylint==2.4.4
+pytz==2019.3
+six==1.14.0
+tzlocal==2.0.0
+WMI==1.4.9
+wrapt==1.11.2
