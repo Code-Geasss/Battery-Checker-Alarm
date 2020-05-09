@@ -16,6 +16,10 @@ an alarm will be turned on for 7 seconds. (you can change the time limit of alar
                                           for x in range(7  -> change this number))
                                           
  ![](images/Initial.PNG)
+ 
+ 
  ![](images/current_battery.PNG)
+ 
+ 
  ![](images/error.PNG)
                                         
