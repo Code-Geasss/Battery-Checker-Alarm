@@ -15,5 +15,13 @@ an alarm will be turned on for 7 seconds. (you can change the time limit of alar
                             inside ->>>def alarm():
                                           for x in range(7  -> change this number))
                                           
-                                        
+ ![](images/Initial.PNG)
+ 
+ 
+ ![](images/current_battery.PNG)
+ 
+ 
+ ![](images/error.PNG)
+ 
+ ![](images/final_output.PNG)
                                         
